@@ -1,0 +1,7 @@
+Libraries needed for the lab
+
+1. numpy 
+2. pandas 
+3. scikit-learn 
+4. matplotlib 
+5. seaborn.
